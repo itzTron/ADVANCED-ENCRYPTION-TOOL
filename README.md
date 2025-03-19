@@ -42,7 +42,7 @@ cd aes-gui-encryptor
 
 ## Running the Application
 ```bash
-python3 aes_gui.py
+python3 file_encryptor_app.py
 ```
 
 ## Usage

@@ -50,6 +50,8 @@ python3 file_encryptor_app.py
 3. Click the "Encrypt File" button to encrypt the selected file.
 4. Click the "Decrypt File" button to decrypt an already encrypted file.
 5. The status label will display the encryption or decryption status.
+## Example Image:
+![Image](https://github.com/user-attachments/assets/7660857e-1e2e-4e99-bb31-0ac73fc89178)
 
 ## Troubleshooting
 - If you encounter `ModuleNotFoundError: No module named 'gi'`, install the required GTK bindings using the installation steps above.

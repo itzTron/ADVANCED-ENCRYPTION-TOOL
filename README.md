@@ -1,4 +1,4 @@
-# AES-256 File Encryptor GUI
+# File Encryptor GUI (AES-256)
 
 This is a Python-based AES-256 file encryption and decryption GUI application built using GTK (PyGObject). It allows users to encrypt and decrypt files securely using AES-256 encryption, with encryption keys stored in an SQLite database.
 

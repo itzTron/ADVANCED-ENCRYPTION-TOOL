@@ -67,5 +67,5 @@ python3 file_encryptor_app.py
 This project is licensed under the MIT License. Feel free to modify and distribute.
 
 ## Author
-Developed by Tanmoy Nasar 
+Developed by Tanmoy Naskar 
 

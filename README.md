@@ -1,4 +1,10 @@
 # File Encryptor GUI (AES-256)
+*COMPANY*: CODTECH IT SOLUTIONS |
+*NAME*: TANMOY NASKAR |
+*INTERN ID*: CT08VMU |
+*DOMAIN*: Cyber Security & Ethical Hacking. | 
+*DURATION*: 4 WEEKS |
+*MENTOR*: NEELA SANTOSH |
 
 This is a Python-based AES-256 file encryption and decryption GUI application built using GTK (PyGObject). It allows users to encrypt and decrypt files securely using AES-256 encryption, with encryption keys stored in an SQLite database.
 

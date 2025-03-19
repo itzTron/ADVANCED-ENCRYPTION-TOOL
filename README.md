@@ -36,8 +36,7 @@ pip3 install cryptography
 ## Installation
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/aes-gui-encryptor.git
-cd aes-gui-encryptor
+https://github.com/itzTron/ADVANCED-ENCRYPTION-TOOL.git
 ```
 
 ## Running the Application
